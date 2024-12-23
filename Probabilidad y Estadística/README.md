@@ -33,3 +33,18 @@ muestral a un valor poblacional, explicando el propósito de este cálculo.
 ***
 - [https://www.kaggle.com/datasets]
 - [https://archive.ics.uci.edu/datasets]
+***
+
+# Trabajo Final Integrador: Análisis de datos del Titanic.
+
+![Titanic](https://www.pelayo.com/teloaseguro/wp-content/uploads/2015/11/Titanic-Pelayo-1024x1024-1-850x550.jpg)
+
+### Introducción:
+El presente trabajo tiene como objetivo utilizar los conceptos aprendidos en clase sobre estadística
+descriptiva e inferencia estadística aplicandolos sobre un conjunto de datos obtenido del repositorio
+Kaggle. La base de datos seleccionada corresponde a los pasajeros del Titanic. El enfoque principal
+del análisis se centra en evaluar cómo la edad influyo en las probabilidades de supervivencia durante
+el desastre. Teniendo presente que esto es uno de los multiples factores de supervivencia de la
+catástrofe.
+
+#### [Desarrollo en Colab.](https://colab.research.google.com/drive/1dV0H5V_AL9gqZeqPBcxh-CQ4gqL_wZ1j)
